@@ -2,17 +2,17 @@
 
 ## Technolgies used:
 
-● AWS services: EC2, VPC, CloudFormation (CF)
-● MySQL on AWS RDS
-● Postman (or similar API testing tool)
-● Docker
-● Node JS and Express (or other language/framework you choose to create your services)
-● JWT 
-● BFF pattern 
-● Single Responsibility Principle 
-● Kubernetes and EKS 
-● Kafka and publish-subscribe 
-● Circuit breaker and bulkheads 
+* AWS services: EC2, VPC, CloudFormation (CF)
+* MySQL on AWS RDS
+* Postman (or similar API testing tool)
+* Docker
+* Node JS and Express (or other language/framework you choose to create your services)
+* JWT 
+* BFF pattern 
+* Single Responsibility Principle 
+* Kubernetes and EKS 
+* Kafka and publish-subscribe 
+* Circuit breaker and bulkheads 
 
 ## Runtime architecture
 
