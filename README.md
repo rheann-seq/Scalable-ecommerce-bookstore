@@ -6,7 +6,7 @@
 * MySQL on AWS RDS
 * Postman (or similar API testing tool)
 * Docker
-* Node JS and Express (or other language/framework you choose to create your services)
+* Java and Spring Boot
 * JWT 
 * BFF pattern 
 * Single Responsibility Principle 
